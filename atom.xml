@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://henryblog.xyz/"/>
-  <updated>2018-04-12T06:56:51.744Z</updated>
+  <updated>2018-04-12T06:58:44.964Z</updated>
   <id>http://henryblog.xyz/</id>
   
   <author>
@@ -21,17 +21,13 @@
     <link href="http://henryblog.xyz/2018/04/12/markdown%E9%A6%96%E8%A1%8C%E7%BC%A9%E8%BF%9B/"/>
     <id>http://henryblog.xyz/2018/04/12/markdown首行缩进/</id>
     <published>2018-04-12T06:54:24.000Z</published>
-    <updated>2018-04-12T06:56:51.744Z</updated>
+    <updated>2018-04-12T06:58:44.964Z</updated>
     
-    <content type="html"><![CDATA[<p>在要缩进字前面加上<strong>两个</strong>&emsp;，<strong>分号</strong>不能漏，一个&emsp;就缩进一个字符。</p>]]></content>
+    <content type="html"><![CDATA[<p>在要缩进字前面加上<strong>两个</strong><code>&amp;emsp;</code>，<strong>分号</strong>不能漏，一个<code>&amp;emsp;</code>就缩进一个字符。<br><a id="more"></a></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;在要缩进字前面加上&lt;strong&gt;两个&lt;/strong&gt;&amp;emsp;，&lt;strong&gt;分号&lt;/strong&gt;不能漏，一个&amp;emsp;就缩进一个字符。&lt;/p&gt;
-
-      
+      &lt;p&gt;在要缩进字前面加上&lt;strong&gt;两个&lt;/strong&gt;&lt;code&gt;&amp;amp;emsp;&lt;/code&gt;，&lt;strong&gt;分号&lt;/strong&gt;不能漏，一个&lt;code&gt;&amp;amp;emsp;&lt;/code&gt;就缩进一个字符。&lt;br&gt;
     
     </summary>
     
