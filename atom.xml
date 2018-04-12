@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://henryblog.xyz/"/>
-  <updated>2018-04-12T12:12:49.507Z</updated>
+  <updated>2018-04-12T12:48:14.629Z</updated>
   <id>http://henryblog.xyz/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>markdownn居中</title>
+    <link href="http://henryblog.xyz/2018/04/12/markdownn%E5%B1%85%E4%B8%AD/"/>
+    <id>http://henryblog.xyz/2018/04/12/markdownn居中/</id>
+    <published>2018-04-12T12:47:07.000Z</published>
+    <updated>2018-04-12T12:48:14.629Z</updated>
+    
+    <content type="html"><![CDATA[<p>用<strong>html</strong>格式 <center>居中的内容</center><br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;用&lt;strong&gt;html&lt;/strong&gt;格式 &lt;center&gt;居中的内容&lt;/center&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>申论文章-平安社会建设</title>
