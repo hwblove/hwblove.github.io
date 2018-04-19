@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.henryblog.xyz/"/>
-  <updated>2018-04-18T09:52:26.934Z</updated>
+  <updated>2018-04-19T01:15:15.547Z</updated>
   <id>http://www.henryblog.xyz/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>三星S8升8.0的问题</title>
+    <link href="http://www.henryblog.xyz/2018/04/19/%E4%B8%89%E6%98%9FS8%E5%8D%878-0%E7%9A%84%E9%97%AE%E9%A2%98/"/>
+    <id>http://www.henryblog.xyz/2018/04/19/三星S8升8-0的问题/</id>
+    <published>2018-04-19T01:07:15.000Z</published>
+    <updated>2018-04-19T01:15:15.547Z</updated>
+    
+    <content type="html"><![CDATA[<p>三星S8升级安卓8.0后，有部分用户反映飞行模式下耗电巨大。专业人士表示此问题在于系统收音机部分代码BUG所致，因此建议在切换飞行模式前先把网络切换至3G/2G(设置》连接》网络)，此方法是三星未更新系统修复前的临时解决方案。<br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;三星S8升级安卓8.0后，有部分用户反映飞行模式下耗电巨大。专业人士表示此问题在于系统收音机部分代码BUG所致，因此建议在切换飞行模式前先把网络切换至3G/2G(设置》连接》网络)，此方法是三星未更新系统修复前的临时解决方案。&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>windows写作软件分享</title>
