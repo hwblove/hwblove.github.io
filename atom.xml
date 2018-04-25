@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.henryblog.xyz/"/>
-  <updated>2018-04-25T03:22:48.437Z</updated>
+  <updated>2018-04-25T03:37:13.951Z</updated>
   <id>http://www.henryblog.xyz/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何创新体制机制来释放科技人员活力？</title>
+    <link href="http://www.henryblog.xyz/2018/04/25/%E5%A6%82%E4%BD%95%E5%88%9B%E6%96%B0%E4%BD%93%E5%88%B6%E6%9C%BA%E5%88%B6%E6%9D%A5%E9%87%8A%E6%94%BE%E7%A7%91%E6%8A%80%E4%BA%BA%E5%91%98%E6%B4%BB%E5%8A%9B%EF%BC%9F/"/>
+    <id>http://www.henryblog.xyz/2018/04/25/如何创新体制机制来释放科技人员活力？/</id>
+    <published>2018-04-25T03:25:16.000Z</published>
+    <updated>2018-04-25T03:37:13.951Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>对职务科技成果转化获得的现金奖励实行个人所得税<strong>减半</strong></li></ul><p>李克强总理强调要通过减轻税收负担，促进科技成果转化提速。</p><p>决定对依法批准设立的非营利性科研机构、高校等单位的科技人员，通过科研与技术开发所创造的专利技术、计算机软件著作权、生物医药新品种等职务创新成果，采取转让、许可方式进行成果转化的，在相关单位取得转化收入后三年内发放的现金奖励，减半计入科技人员当月个人工资薪金所得计征个人所得税。</p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;对职务科技成果转化获得的现金奖励实行个人所得税&lt;strong&gt;减半&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;李克强总理强调要通过减轻税收负担，促进科技成果转化提速。&lt;/p&gt;
+&lt;p&gt;决定对依法批准设立的非营利性科研机构、高校等单位的科技人员，通过科研与技术开发所创造的专利技术、计算机软件著作权、生物医药新品种等职务创新成果，采取转让、许可方式进行成果转化的，在相关单位取得转化收入后三年内发放的现金奖励，减半计入科技人员当月个人工资薪金所得计征个人所得税。&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>行百里者半九十</title>
@@ -370,24 +392,6 @@
     <summary type="html">
     
       &lt;p&gt;&amp;emsp;&amp;emsp;近期网络直播、视频平台等传播低俗和不符合社会主义核心价值观内容，存在对未成年人有害的违法违规视频、信息、音乐内容，直播平台出现未成年人代播、直播攀比乱象，未成年人脱衣表演、性暗示动作等。&lt;br&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>markdown首行缩进</title>
-    <link href="http://www.henryblog.xyz/2018/04/12/markdown%E9%A6%96%E8%A1%8C%E7%BC%A9%E8%BF%9B/"/>
-    <id>http://www.henryblog.xyz/2018/04/12/markdown首行缩进/</id>
-    <published>2018-04-12T06:54:24.000Z</published>
-    <updated>2018-04-12T06:58:44.964Z</updated>
-    
-    <content type="html"><![CDATA[<p>在要缩进字前面加上<strong>两个</strong><code>&amp;emsp;</code>，<strong>分号</strong>不能漏，一个<code>&amp;emsp;</code>就缩进一个字符。<br><a id="more"></a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;在要缩进字前面加上&lt;strong&gt;两个&lt;/strong&gt;&lt;code&gt;&amp;amp;emsp;&lt;/code&gt;，&lt;strong&gt;分号&lt;/strong&gt;不能漏，一个&lt;code&gt;&amp;amp;emsp;&lt;/code&gt;就缩进一个字符。&lt;br&gt;
     
     </summary>
     
